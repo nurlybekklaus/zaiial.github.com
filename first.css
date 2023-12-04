@@ -1,0 +1,40 @@
+a {
+    text-decoration: none;
+}
+.Arman {
+    width: 300px;
+    height: 150;
+   
+}
+
+.thend {
+    background-color: rgba(9, 9, 9, 0.2);
+}
+
+.foofoo {
+    background-color: rgb(114, 221, 221);
+}
+
+.div3 > .forvideo {
+    
+    text-align: center;
+
+}
+.p {
+    font-style: italic;
+}
+
+.moon {
+    text-align: center;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+
+.divv {
+    background-color: antiquewhite;
+}
+.navbar-brand > p {
+    color: aliceblue;
+}
